@@ -1,4 +1,4 @@
-# 🔬 HiCervix HPU Training & Evaluation – Reproducible Pipeline
+# 🔬 Ensemble TTA HiCervix HPU Training & Evaluation – Reproducible Pipeline
 
 This repository provides a full and reproducible pipeline for training and evaluating **hierarchical cervical cell classification** models, based on the open-source **HiCervix** project. Our extended version supports:
 
