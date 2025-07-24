@@ -148,6 +148,8 @@ To generate these:
 
 This will generate the three `.pkl` files. Place them in the root of this project.
 
+You may adapt the tree-related variables inside the project’s .py files to match the generated tree.pkl file."
+
 ---
 
 ## 🗂️ 5. Recommended Folder Structure
